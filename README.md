@@ -1,8 +1,8 @@
 # Birdstrik-Analysis
-Project Title: Data Visualization of Bird Strikes between 2000 – 2011
-Technologies:Data Science
-Domain: Transportation and Communication
-Problem Statement:
+#Project Title: Data Visualization of Bird Strikes between 2000 – 2011
+#Technologies:Data Science
+#Domain: Transportation and Communication
+#Problem Statement:
 Transport and communication are in the crucial domain in the field of analytics.
 Environmental impacts and safety are, nowadays, two major concerns of the scientific
 community with respect to transport scenarios and to the ever-growing urban areas.
@@ -21,5 +21,5 @@ Bird strikes may occur during any phase of flight, but are most likely during th
 take-off, initial climb, approach and landing phases due to the greater numbers of birds
 in flight at lower levels. To have a closer look the following document visually depicts
 the data collected on Bird Strikes by FAA between 2000-2011.
-Tools : Power Bi, Excel
-Language : Python
+#Tools : Power Bi, Excel
+#Language : Python
